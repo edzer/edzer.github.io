@@ -1,4 +1,4 @@
 edzer.github.io
 ===============
 
-web site
+the web site
