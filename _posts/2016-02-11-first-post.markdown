@@ -30,6 +30,3 @@ $$
     \end{array} \right)
 \end{align*}
 $$
-
-which doesn't seem to render on github.io...
-
