@@ -1,11 +1,23 @@
-<!DOCTYPE html>
-<html>
-<body> 
-Project web sites:
-<ul>
-<li><a href="sp">sp: map gallery</a></li>
-<li><a href="mss">meaningful spatial statistics R package</a></li>
-<li>a <a href="gstat">copy</a> of the material at <a href="http://www.gstat.org/">gstat.org</a></li>
-</ul>
-</body>
-</html>
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
