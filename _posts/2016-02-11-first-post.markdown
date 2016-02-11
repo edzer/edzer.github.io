@@ -10,7 +10,7 @@ This is to remind myself how to do \\(\LaTeX\\) stuff in markdown, found [here](
 
 Some math: \\(S \times T \Rightarrow Q\\)
 
-Some math 2: $$S \times T \Rightarrow Q$$
+Some math 2: $$\(S \times T \Rightarrow Q\)$$
 
 \\[ \mathsf{Data = PCs} \times \mathsf{Loadings} \\]
 
