@@ -18,13 +18,15 @@ categories: trajectories
       //displayIndent: "2em"
     });
 </script>
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
-This is to remind myself how to do \\(\LaTeX\\) stuff in markdown, found [here](http://gastonsanchez.com/opinion/2014/02/16/Mathjax-with-jekyll/)
+This is to remind myself how to do $\LaTeX$ stuff in markdown, found [here](http://gastonsanchez.com/opinion/2014/02/16/Mathjax-with-jekyll/)
 
-Some math: \\(S \times T \Rightarrow Q\\)
+Some math: $$S \times T \Rightarrow Q$$
 
-\\[ \mathsf{Data = PCs} \times \mathsf{Loadings} \\]
+$$\mathsf{Data = PCs} \times \mathsf{Loadings}$$
 
 $$ \mbox{Data = PCs} \times \mbox{Loadings} $$
 
@@ -46,3 +48,5 @@ $$
 $$
 
 which doesn't seem to render on github.io...
+
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
