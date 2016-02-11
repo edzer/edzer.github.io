@@ -6,7 +6,7 @@ categories: trajectories
 ---
 <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-This is to remind myself how to do $\LaTeX$ stuff in markdown, found [here](http://gastonsanchez.com/opinion/2014/02/16/Mathjax-with-jekyll/)
+This is to remind myself how to do $$\LaTeX$$ stuff in markdown, found [here](http://gastonsanchez.com/opinion/2014/02/16/Mathjax-with-jekyll/)
 
 Some math: $$S \times T \Rightarrow Q$$
 
