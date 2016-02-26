@@ -2,7 +2,8 @@
 layout: post
 title:  "Reminder"
 date:   2016-02-11 11:00:00 +0100
-categories: trajectories
+comments: true
+categories: r
 ---
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
@@ -30,3 +31,6 @@ $$
     \end{array} \right)
 \end{align*}
 $$
+
+{% if post.comments %} 
+{% endif %} 

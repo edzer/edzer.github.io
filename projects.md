@@ -12,3 +12,5 @@ This page list some software projects (R packages) I am involved in:
 [demo vignette](https://edzer.github.io/mss/)
 * {% include icon-github.html username="edzer" %} / [gstat](https://github.com/edzer/gstat/):
 old [gstat.org website mirror](https://edzer.github.io/gstat/)
+* {% include icon-github.html username="edzer" %} / [r-spatial](https://github.com/edzer/r-spatial/):
+[R Spatial](http://r-spatial.org/) software projects, ideas, blogs, and other stuff.
