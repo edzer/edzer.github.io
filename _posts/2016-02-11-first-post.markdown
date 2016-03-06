@@ -34,7 +34,7 @@ $$
     \end{array} \right)
 \end{align*}
 $$
---!>
+-->
 
 {% if post.comments %} 
 {% endif %} 
