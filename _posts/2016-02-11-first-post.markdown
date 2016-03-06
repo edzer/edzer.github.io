@@ -9,8 +9,11 @@ categories: r
 
 This is to remind myself how to do $$\LaTeX$$ stuff in markdown, found [here](http://gastonsanchez.com/opinion/2014/02/16/Mathjax-with-jekyll/)
 
-Some math: $$S \times T \Rightarrow Q$$
+Some math: 
 
+$$S \times T \Rightarrow Q$$
+
+<!--
 $$\mathsf{Data = PCs} \times \mathsf{Loadings}$$
 
 $$ \mbox{Data = PCs} \times \mbox{Loadings} $$
@@ -31,6 +34,7 @@ $$
     \end{array} \right)
 \end{align*}
 $$
+--!>
 
 {% if post.comments %} 
 {% endif %} 
