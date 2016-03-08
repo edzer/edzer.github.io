@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reminder"
+title:  "LaTeX to markdown"
 date:   2016-02-11 11:00:00 +0100
 comments: true
 categories: r
