@@ -1,19 +1,25 @@
 ---
 layout: post
-title:  "LaTeX to markdown"
+title:  "first post"
 date:   2016-02-11 11:00:00 +0100
 comments: true
 categories: r
 ---
+You can find information about me here:
+
+* [person](http://www.uni-muenster.de/Geoinformatics/en/institute/staff/index.php/119/Edzer_Pebesma)
+* [publications](http://pebesma.staff.ifgi.de/publ.html)
+* [blog](http://r-spatial.org/)
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
+
+<!--
 This is to remind myself how to do $$\LaTeX$$ stuff in markdown, found [here](http://gastonsanchez.com/opinion/2014/02/16/Mathjax-with-jekyll/)
 
 Some math: 
 
 $$S \times T \Rightarrow Q$$
-
-<!--
 $$\mathsf{Data = PCs} \times \mathsf{Loadings}$$
 
 $$ \mbox{Data = PCs} \times \mbox{Loadings} $$
